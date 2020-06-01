@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Ultra&display=swap");
+
+h1 {
+font-family: "Ultra", Helvetica, sans-serif;
+    color: red;
+}
+
+#Segg-pont {
+color: rgb(0, 255, 115);
+}
+
+.Egyedi {
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+} 
+
+img {
+    box-shadow: 5px 5px 10px indigo;
+    margin: 20px;
+}
+.Kep {
+    background-color: pink;
+    
+}
+.Menu {
+    position: fixed;
+    margin-top: 0;
+    margin-left: 0px;
+    padding-top: 0px; 
+    top: 0px;
+    background-color:plum;
+    width: 100%;
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 2px;
+}
+body{
+    position: absolute;
+    top: 40px;
+}
